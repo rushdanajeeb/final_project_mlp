@@ -1,2 +1,3 @@
-# kidney_stone_pridiction
-kidney_stone_pridiction
+#Heart Attack Prediction
+Heart Attack Prediction
+
